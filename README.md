@@ -1,2 +1,3 @@
 # studyireland
-study ireland
+
+GitHub Pages holding page for Study Ireland.
